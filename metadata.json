@@ -1,0 +1,6 @@
+{
+  "name": "Gmail10p",
+  "description": "Disposable 10-minute temporary email inbox for @gmail10p.com. Stop spam, extract OTPs, and protect your privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
